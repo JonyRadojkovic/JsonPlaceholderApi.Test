@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JsonPlaceholderApi.Test", "JsonPlaceholderApi.Test\JsonPlaceholderApi.Test.csproj", "{36D577B4-318F-4926-A0DD-31AF38214309}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36D577B4-318F-4926-A0DD-31AF38214309}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36D577B4-318F-4926-A0DD-31AF38214309}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36D577B4-318F-4926-A0DD-31AF38214309}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36D577B4-318F-4926-A0DD-31AF38214309}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5DC568CE-D843-4BD3-8164-2042FC3CF3CD}
+	EndGlobalSection
+EndGlobal
